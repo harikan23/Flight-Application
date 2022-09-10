@@ -1,0 +1,2 @@
+Error Log
+Please enter correct booking details for testSam:requested seat type not available in flight testSJ456

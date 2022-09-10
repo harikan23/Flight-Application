@@ -1,0 +1,4 @@
+Error Log
+Please enter correct booking details for John:requested flight is not available
+Please enter correct booking details for Sierra:Invalid credit card details
+Please enter correct booking details for Samass:requested number of seats not available in flight SJ456

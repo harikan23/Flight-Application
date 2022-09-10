@@ -1,0 +1,2 @@
+BookingName, flightNumber, seatCategory, numberOfSeats, paymentCardNumber
+testSam,SJ456,Economy,2,5410000000000000

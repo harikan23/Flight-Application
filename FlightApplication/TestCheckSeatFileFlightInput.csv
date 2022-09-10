@@ -1,0 +1,3 @@
+Category(Economy,PremiumEconomy,Business),FlightNumber,AvailableSeats,Price,Arrival,Departure
+Economy,testSJ456,5,250,Seattle,San Jose
+Premium Economy,BY110,5,500,San Francisco,New York
